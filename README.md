@@ -18,4 +18,12 @@ All the three notebooks contain stepwise explaanation with a introduction to all
 
 Here's the blogs I have written based on these projects :- 
 
+1) The World Of Recommender Systems:- https://medium.com/@saketgarodia/the-world-of-recommender-systems-e4ea504341ac?source=friends_link&sk=508a980d8391daa93530a32e9c927a87
+
+2)Content-based Recommender Systems: https://medium.com/@saketgarodia/content-based-recommender-systems-in-python-2b330e01eb80?source=friends_link&sk=339a4eaa360453fe6952a10190ec5e9e
+
+3)Meta-data based Recommender Systems: https://medium.com/@saketgarodia/metadata-based-recommender-systems-in-python-c6aae213b25c?source=friends_link&sk=38377cb21bd25830c3a89154061f1a4e
+
+4)Recommender Systems using Collaborative Filtering: https://medium.com/@saketgarodia/recommendation-system-using-collaborative-filtering-cc310e641fde?source=friends_link&sk=136505633d44434ca2b3d74f8365fd05
+
 
