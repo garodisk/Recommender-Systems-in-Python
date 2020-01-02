@@ -18,7 +18,8 @@ All the three notebooks contain stepwise explaanation with a introduction to all
 
 Here's the blogs I have written based on these projects :- 
 
-1) The World Of Recommender Systems:- https://medium.com/@saketgarodia/the-world-of-recommender-systems-e4ea504341ac?source=friends_link&sk=508a980d8391daa93530a32e9c927a87
+
+1)The World Of Recommender Systems:- https://medium.com/@saketgarodia/the-world-of-recommender-systems-e4ea504341ac?source=friends_link&sk=508a980d8391daa93530a32e9c927a87
 
 2)Content-based Recommender Systems: https://medium.com/@saketgarodia/content-based-recommender-systems-in-python-2b330e01eb80?source=friends_link&sk=339a4eaa360453fe6952a10190ec5e9e
 
